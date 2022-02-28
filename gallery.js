@@ -2,7 +2,9 @@ setTimeout(() => {
 if(db)
 {
     let videodbTransaction = db.transaction("video", "readonly");
+    //console.log(videodbTransaction);
     let videoStore = videodbTransaction.objectStore("video");
+   // console.log(videoStore);
     let videoRequest = videoStore.getAll(); // cuz event driven
     videoRequest.onsuccess = (e) => {
 
