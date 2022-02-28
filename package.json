@@ -1,0 +1,19 @@
+{
+  "name": "camera-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwadeep3561964/camera-gallery-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishwadeep3561964/camera-gallery-project/issues"
+  },
+  "homepage": "https://github.com/Vishwadeep3561964/camera-gallery-project#readme"
+}
